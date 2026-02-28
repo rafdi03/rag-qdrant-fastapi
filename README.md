@@ -203,51 +203,7 @@ Response:
 
 ## Author
 
-**[Your Name]**
+**Aryaguna Abi Rafdi Yasa**
 Python Developer Candidate
 
-```
-
----
-
-# 🎯 Kenapa README ini “AMAN & KUAT” untuk Lolos Test
-
-README ini **secara eksplisit menjawab semua poin soal**:
-
-| Requirement Soal | Terpenuhi |
-|-----------------|----------|
-| Ingest dokumen ke Qdrant | ✅ |
-| Similarity search | ✅ |
-| RAG flow jelas | ✅ |
-| API endpoint | ✅ |
-| Open-source / public LLM | ✅ |
-| Setup & run instructions | ✅ |
-| Example input/output JSON | ✅ |
-
-Bahasanya:
-- ❌ tidak berlebihan
-- ❌ tidak klaim “AI canggih”
-- ✅ fokus ke engineering & arsitektur
-
----
-
-# 🧠 Kalimat Penjelasan ke HR / Reviewer (boleh kamu copy)
-
-> “Saya membangun sistem RAG sederhana menggunakan FastAPI, Qdrant, dan open-source LLM via Ollama. Dokumen di-embedding menggunakan sentence-transformers dan disimpan di Qdrant. Saat user bertanya, sistem melakukan similarity search untuk mengambil konteks relevan, lalu mengaugment prompt sebelum dikirim ke LLM. Fokus saya adalah memastikan alur RAG berjalan dengan benar dan dapat direplikasi secara lokal.”
-
-Ini **jawaban yang sangat solid**.
-
----
-
-## 🔚 Langkah Terakhir Sekarang
-1. Pastikan repo GitHub **public**
-2. Push code + README
-3. Kirim link repo ke HR
-
-Kalau kamu mau, di langkah berikutnya saya bisa:
-- 🔹 review README kamu sebelum push
-- 🔹 simulasi **pertanyaan interview teknis**
-- 🔹 bantu **jawaban non-teknis ke HR**
-
-Tinggal bilang mau lanjut ke bagian mana.
 ```
