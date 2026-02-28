@@ -1,15 +1,3 @@
-Siap 👍
-Di bawah ini saya **siapkan README.md yang langsung bisa kamu pakai** (tinggal copy–paste), **bahasanya sesuai standar take-home test**, dan **jelas menjawab semua poin soal quiz**.
-Setelah ini, **secara administratif & teknis kamu sudah sangat layak lolos**.
-
----
-
-# ✅ README.md (SIAP SUBMIT)
-
-Silakan **copy seluruh isi di bawah ini** ke file `README.md` di root repository GitHub kamu.
-
----
-
 ```md
 # Retrieval-Augmented Generation (RAG) with Qdrant and Open-Source LLM
 
