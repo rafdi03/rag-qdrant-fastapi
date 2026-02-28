@@ -1,4 +1,3 @@
-```md
 # Retrieval-Augmented Generation (RAG) with Qdrant and Open-Source LLM
 
 ## Overview
